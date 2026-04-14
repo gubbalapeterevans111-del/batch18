@@ -1,7 +1,7 @@
 # Deployment Guide
 
 ## ⚠️ Important Note About Free Servers (Vercel / Render)
-You mentioned wanting to use **Vercel** or other free servers. While Vercel is amazing for website frontends, **it will not work for this face detection system**. 
+ Vercel is amazing for website frontends, **it will not work for this face detection system**. 
 
 Here is why:
 1. **Size Limits**: Vercel Serverless Functions have a strict size limit of 50MB (uncompressed 250MB). The `insightface` AI model along with `opencv` and `onnxruntime` takes up over **1.5 GB** of space.
