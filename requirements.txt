@@ -1,0 +1,9 @@
+insightface
+onnxruntime
+opencv-python
+gdown
+numpy
+tqdm
+scikit-image
+flask
+flask-cors
