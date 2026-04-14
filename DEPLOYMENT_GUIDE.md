@@ -31,7 +31,7 @@ Upload the files from this folder directly into your Hugging Face Space reposito
 - `face_engine.py`
 - `camera.py`
 - `requirements.txt`
-- `Dockerfile` (I have generated this for you)
+- `Dockerfile` 
 - `templates/` (folder)
 - `static/` (folder)
 
